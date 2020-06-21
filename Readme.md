@@ -52,7 +52,7 @@ With IaaS, users have the most control over the resources provided to them. IaaS
 <img src='Images/conclusion.jpeg' height=270> </img>
 
 <h2> Thank You :D </h2>
-<p><i>I have used many online resources while creating the application and I would like to thank them .   </i>Hope you found it insightful.If you have any queries you can mail me at : kumartharun435@gmail.com . I would love to hear feedback from you to improvise it and make it better!  </p>
+<p><i>I have used many online resources while creating the application and I would like to thank them .   </i>Hope you found it insightful.If you have any queries you can mail me at : lchandratejareddy@gmail.com . I would love to hear feedback from you to improvise it and make it better!  </p>
 
 
 
